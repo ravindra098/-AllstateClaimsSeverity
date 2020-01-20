@@ -1,8 +1,9 @@
 ## -AllstateClaimsSeverity
 
 #### Data Preprocessing
-Loading Data from csv files
-Description and Visualization of Data(Simple EDA)
+Loading Data from csv files.
+
+Description and Visualization of Data(Simple EDA).
 
 #### Modelling
 Using Mean Average Error as a factor to select the best technique among popular techniques.
