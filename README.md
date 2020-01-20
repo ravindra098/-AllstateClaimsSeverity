@@ -15,4 +15,4 @@ Testing various algorithms and choosing the one with least Mean Average Error.
 
 3.Xgboost
 
-#### XGBoost gave the least Mean Average Error(MAE).These perform the best on these dataset.For complete analysis of data,please refer the ipython notebook presents in the directory.
+#### XGBoost gave the least Mean Average Error(MAE) of 1140.7930736046517.These perform the best on these dataset.For complete analysis of data,please refer the ipython notebook presents in the directory.
